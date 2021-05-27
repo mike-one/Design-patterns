@@ -21,7 +21,7 @@ fun main(){
     val secondImage = image.clone()
     reportItems["Second image"] = secondImage
 
-    println("\n \nUpdate report")
+    println("\n \nUpdate report\n")
     report.printReport(reportItems)
 
 }
